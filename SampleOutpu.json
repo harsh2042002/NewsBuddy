@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Luis Martinez",
+        "title": "Dramatic video released of Russian fighter jets 'harassing' US drones over Syria - ABC News",
+        "description": "A top military official labeled the incident \"unsafe and unprofessional.\"",
+        "url": "https://abcnews.go.com/International/dramatic-video-released-russian-fighter-jets-harassing-us/story?id=100739203",
+        "urlToImage": "https://s.abcnews.com/images/International/230705_vod_russian_jet_syria_hpMain_16x9_992.jpg",
+        "publishedAt": "2023-07-06T01:23:44Z",
+        "content": "The U.S. military released dramatic video of a tense encounter on Wednesday over the skies of eastern Syria as Russian fighter jets were seen \"harassing\" three American military drones carrying out a… [+2746 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Bill Hutchinson",
+        "title": "'Insanity': 4th of July mass shootings leave 20 dead, 126 injured - ABC News",
+        "description": "\"This cannot be the society we are expected to live in,\" an elected leader said.",
+        "url": "https://abcnews.go.com/US/4th-july-mass-shootings-us-kill-13-injure-80/story?id=100702853",
+        "urlToImage": "https://s.abcnews.com/images/US/baltimore-shooting-ap-lv-230702-4_1688305884693_hpMain_16x9_992.jpg",
+        "publishedAt": "2023-07-06T00:00:00Z",
+        "content": "Amid celebrations and fireworks over the long Fourth of July holiday weekend, cities across America were left reeling from the scourge of gun violence as mass shootings occurred at block parties and … [+10493 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Neurosciencenews.com"
+        },
+        "author": "Neuroscience News",
+        "title": "Physical Activity Over 60 Enhances Life Quality - Neuroscience News",
+        "description": "Researchers found a correlation between physical activity in adults over sixty and quality of life.",
+        "url": "https://neurosciencenews.com/aging-activity-life-quality-23579/",
+        "urlToImage": "https://neurosciencenews.com/files/2023/07/acticity-aging-life-quality-neurosicncce.jpg",
+        "publishedAt": "2023-07-05T19:59:25Z",
+        "content": "Summary: Researchers found a correlation between physical activity in adults over sixty and quality of life. The study, involving almost 1,500 participants, revealed that reduced physical activity an… [+8616 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "INSIDER"
+        },
+        "author": "Callie Ahlgrim",
+        "title": "Andrew Ridgeley said there was 'friction' in Wham! when George Michael became a more successful songwriter - Yahoo Entertainment",
+        "description": "\"George's songwriting was developing at an amazing, inconceivable sort of pace,\" Ridgeley recalled in a new Netflix documentary.",
+        "url": "https://www.insider.com/george-michael-caused-friction-wham-andrew-ridgeley-documentary-2023-7",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X9Ljc2t7LEzc0_YjVkT94g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insider_articles_922/16172df5ba3ddde9fcbe2aa916ced57a",
+        "publishedAt": "2023-07-05T19:28:08Z",
+        "content": "George Michael and Andrew Ridgeley of Wham! perform during The Big Tour in 1985.Michael Putland/Getty Images\r\n<ul><li>The new Netflix documentary \"Wham!\" explores the British duo's rise to fame in th… [+3445 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Elizabeth Napolitano",
+        "title": "UPS workers edge closer to strike as union negotiations stall - CBS News",
+        "description": "Teamsters Union and UPS have failed to agree a deal on a new contract that would cover 340,000 workers.",
+        "url": "https://www.cbsnews.com/news/ups-strike-teamsters-union-negotiations-stall/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/29/18e66fce-ae48-4b45-81cc-8c0649684841/thumbnail/1200x630/0117a82c5c4b99574d107691c74f0bef/screenshot-2023-06-29-at-2-26-25-pm.png?v=46148a329842187f630d57e5930d74c4",
+        "publishedAt": "2023-07-05T18:14:00Z",
+        "content": "The Teamsters Union and UPS on Wednesday accused each other of abandoning labor negotiations aimed at averting what would be the largest strike in the U.S. since the 1950s.\r\nThe union, which represen… [+2813 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Chron.com"
+        },
+        "author": "Ariana Garcia",
+        "title": "Intense heat is taking a toll on Houston's mosquitos, study says - Chron",
+        "description": "A new study from Climate Central shows that mosquitos may be declining in Houston and the south overall due to higher temperatures.",
+        "url": "https://www.chron.com/life/wildlife/article/houston-weather-mosquitos-18185245.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/33/43/75/24002429/3/rawImage.jpg",
+        "publishedAt": "2023-07-05T15:44:34Z",
+        "content": "Houston has had an average of 20 fewer so called 'mosquito days'defined as days with warm, humid days in which the insects thrive insince 1979, according to Climate Central. \r\nAnton Petrus/Getty Imag… [+2230 chars]"
+      }
+    ]
+  }
