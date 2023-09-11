@@ -1,4 +1,8 @@
+This is NewsBuddy React app where i had use news api for fetching news. here anyone can see latest news and read a full article by clicking on readme button. also user can read news on different category by changing category.
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
